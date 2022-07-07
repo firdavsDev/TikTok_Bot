@@ -1,6 +1,6 @@
-[![TeleTok](./img/logo.jpg?raw=true)](https://t.me/TeleTockerBot)
 
-# [TeleTok](https://t.me/TeleTockerBot): Telegram bot for TikTok
+
+# [TeleTok]: Telegram bot for TikTok
 
 ## Description
 
@@ -36,7 +36,4 @@ $ docker build -t teletok .
 $ docker run -e "API_TOKEN=foo:bar" teletok
 ```
 
-
-# License
-MIT
 
